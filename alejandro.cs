@@ -10,9 +10,9 @@ using Xamarin.Forms.Xaml;
 namespace deber
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class PageDi : ContentPage
+    public partial class alejandro : ContentPage
     {
-        public PageDi()
+        public alejandro()
         {
             InitializeComponent();
         }

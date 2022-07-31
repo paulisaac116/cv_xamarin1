@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="deber.PageB">
+             x:Class="deber.alejandro">
     <StackLayout BackgroundColor="#263238">
 
 
@@ -12,7 +12,7 @@
             <StackLayout>
 
                 <Label 
-                   Text="Luis Catota"
+                   Text="Alejandro Armas"
                    FontSize="25"
                    FontAttributes="None"
                    Margin="0,0,0,10"
@@ -46,7 +46,7 @@
 
                     <Label 
                     Margin="5, -5, 0, 0"
-                    Text="luis.catota@epn.edu.ec"
+                    Text="alejandro.armas@epn.edu.ec"
                     FontSize="16"
                     TextColor="Black"
                     VerticalOptions="Center"
@@ -67,7 +67,7 @@
 
                     <Label 
                         Margin="5,0, 0, 0"
-                    Text="099 905 9146"
+                    Text="099 635 6523"
                     FontSize="16"
                     TextColor="Black"
                 />
@@ -86,13 +86,13 @@
                   Y2="0"
                   Stroke="Gray" />
                 <Label 
-                    Text="Gestor de bases de datos"
+                    Text="Desarrollador Backend"
                     
                     FontSize="16"
                     TextColor="Black"
                     />
                 <Label 
-                    Text="DEVSU"
+                    Text="Baytec"
                     Margin="0, -6, 0, 0"
                     FontSize="15"
                     TextColor="Black"

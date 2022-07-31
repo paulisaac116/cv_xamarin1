@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="deber.PageDa">
+             x:Class="deber.luis">
     <StackLayout BackgroundColor="#263238">
 
 
@@ -12,7 +12,7 @@
             <StackLayout>
 
                 <Label 
-                   Text="Nataly Guallichico"
+                   Text="Luis Catota"
                    FontSize="25"
                    FontAttributes="None"
                    Margin="0,0,0,10"
@@ -46,7 +46,7 @@
 
                     <Label 
                     Margin="5, -5, 0, 0"
-                    Text="nataly.guallichico@epn.edu.ec"
+                    Text="luis.catota@epn.edu.ec"
                     FontSize="16"
                     TextColor="Black"
                     VerticalOptions="Center"
@@ -86,13 +86,13 @@
                   Y2="0"
                   Stroke="Gray" />
                 <Label 
-                    Text="Programador Frontend"
+                    Text="Gestor de bases de datos"
                     
                     FontSize="16"
                     TextColor="Black"
                     />
                 <Label 
-                    Text="Kruger Corp"
+                    Text="DEVSU"
                     Margin="0, -6, 0, 0"
                     FontSize="15"
                     TextColor="Black"

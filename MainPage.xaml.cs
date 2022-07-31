@@ -14,20 +14,20 @@ namespace deber
         {
             InitializeComponent();
         }
-        private void btnShowPageDa(object sender, EventArgs e)
+        private void showNatalyCV(object sender, EventArgs e)
         {
             //Navigation.PopAsync();
-            Navigation.PushAsync(new PageDa());
+            Navigation.PushAsync(new nataly());
         }
-        private void btnShowPageDi(object sender, EventArgs e)
+        private void showAlejandroCV(object sender, EventArgs e)
         {
             //Navigation.PopAsync();
-            Navigation.PushAsync(new PageDi());
+            Navigation.PushAsync(new alejandro());
         }
-        private void btnShowPageBr(object sender, EventArgs e)
+        private void showLuisCV(object sender, EventArgs e)
         {
             //Navigation.PopAsync();
-            Navigation.PushAsync(new PageB());
+            Navigation.PushAsync(new luis());
         }
 
     }

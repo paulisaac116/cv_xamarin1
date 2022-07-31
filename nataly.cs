@@ -10,9 +10,9 @@ using Xamarin.Forms.Xaml;
 namespace deber
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class PageDa : ContentPage
+    public partial class nataly : ContentPage
     {
-        public PageDa()
+        public nataly()
         {
             InitializeComponent();
         }

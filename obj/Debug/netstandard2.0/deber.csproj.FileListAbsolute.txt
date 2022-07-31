@@ -5,9 +5,6 @@ C:\Users\pauli\Source\Repos\CVhojaVida\deber\deber\obj\Debug\netstandard2.0\debe
 C:\Users\pauli\Source\Repos\CVhojaVida\deber\deber\obj\Debug\netstandard2.0\deber.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\pauli\Source\Repos\CVhojaVida\deber\deber\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\Users\pauli\Source\Repos\CVhojaVida\deber\deber\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
-C:\Users\pauli\Source\Repos\CVhojaVida\deber\deber\obj\Debug\netstandard2.0\PageB.xaml.g.cs
-C:\Users\pauli\Source\Repos\CVhojaVida\deber\deber\obj\Debug\netstandard2.0\PageDa.xaml.g.cs
-C:\Users\pauli\Source\Repos\CVhojaVida\deber\deber\obj\Debug\netstandard2.0\PageDi.xaml.g.cs
 C:\Users\pauli\Source\Repos\CVhojaVida\deber\deber\obj\Debug\netstandard2.0\deber.AssemblyInfoInputs.cache
 C:\Users\pauli\Source\Repos\CVhojaVida\deber\deber\obj\Debug\netstandard2.0\deber.AssemblyInfo.cs
 C:\Users\pauli\Source\Repos\CVhojaVida\deber\deber\obj\Debug\netstandard2.0\deber.csproj.CoreCompileInputs.cache
@@ -16,3 +13,6 @@ C:\Users\pauli\Source\Repos\CVhojaVida\deber\deber\obj\Debug\netstandard2.0\debe
 C:\Users\pauli\Source\Repos\CVhojaVida\deber\deber\obj\Debug\netstandard2.0\refint\deber.dll
 C:\Users\pauli\Source\Repos\CVhojaVida\deber\deber\obj\Debug\netstandard2.0\deber.pdb
 C:\Users\pauli\Source\Repos\CVhojaVida\deber\deber\obj\Debug\netstandard2.0\ref\deber.dll
+C:\Users\pauli\Source\Repos\CVhojaVida\deber\deber\obj\Debug\netstandard2.0\alejandro.xaml.g.cs
+C:\Users\pauli\Source\Repos\CVhojaVida\deber\deber\obj\Debug\netstandard2.0\luis.xaml.g.cs
+C:\Users\pauli\Source\Repos\CVhojaVida\deber\deber\obj\Debug\netstandard2.0\nataly.xaml.g.cs

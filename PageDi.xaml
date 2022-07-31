@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="deber.PageDi">
+    <StackLayout BackgroundColor="#263238">
+
+
+        <Frame VerticalOptions="FillAndExpand"
+                   Margin="20"
+                   CornerRadius="30"
+                   HasShadow="False">
+            <StackLayout>
+
+                <Label 
+                   Text="Alejandro Armas"
+                   FontSize="25"
+                   FontAttributes="None"
+                   Margin="0,0,0,10"
+                   HorizontalOptions="Center"
+                   TextColor="Black"
+        />
+
+                <Label 
+                    Text="CONTACTO"
+                    Margin="0, 20, 0, 0"
+                    FontSize="20"
+                    HorizontalOptions="Center"
+                    TextColor="Black"
+                />
+                <Line X1="0"
+                  Y1="0"
+                  X2="500"
+                  Y2="0"
+                  Stroke="Gray" />
+                <StackLayout
+                    Margin="0, 5, 0, 0"
+                    Orientation="Horizontal"
+                    VerticalOptions="Center"
+                 >
+                    <Image 
+                        Source="https://cdn-icons-png.flaticon.com/512/2089/2089181.png"
+                        Margin="5,0, 0, 0"
+                        WidthRequest="18"
+                        VerticalOptions="Center"
+                        />
+
+                    <Label 
+                    Margin="5, -5, 0, 0"
+                    Text="alejandro.armas@epn.edu.ec"
+                    FontSize="16"
+                    TextColor="Black"
+                    VerticalOptions="Center"
+                 />
+                </StackLayout>
+
+                <StackLayout
+                    Margin="0, 5, 0, 0"
+                    Orientation="Horizontal"
+                    VerticalOptions="Center"
+                 >
+                    <Image 
+                        Source="https://cdn-icons-png.flaticon.com/512/159/159832.png"
+                        Margin="5,0, 0, 0"
+                        WidthRequest="18"
+                        VerticalOptions="Center"
+                        />
+
+                    <Label 
+                        Margin="5,0, 0, 0"
+                    Text="099 635 6523"
+                    FontSize="16"
+                    TextColor="Black"
+                />
+
+                </StackLayout>
+
+                <Label 
+                    Text="EXPERIENCIA"
+                    Margin="0, 20, 0, 0"
+                       FontSize="20"
+                       HorizontalOptions="Center"
+                       TextColor="Black"/>
+                <Line X1="0"
+                  Y1="0"
+                  X2="500"
+                  Y2="0"
+                  Stroke="Gray" />
+                <Label 
+                    Text="Desarrollador Backend"
+                    
+                    FontSize="16"
+                    TextColor="Black"
+                    />
+                <Label 
+                    Text="Baytec"
+                    Margin="0, -6, 0, 0"
+                    FontSize="15"
+                    TextColor="Black"
+                    />
+
+                <Label 
+                    Text="ESTUDIOS"
+                        Margin="0, 20, 0, 0"
+                       FontSize="20"
+                       HorizontalOptions="Center"
+                       TextColor="Black"/>
+                <Line X1="0"
+                  Y1="0"
+                  X2="500"
+                  Y2="0"
+                  Stroke="Gray" />
+                <Label 
+                    Text="Tecnología Superior en Desarrollo de Software"
+                    FontSize="16"
+                    TextColor="Black"
+                    />
+                <Label 
+                                        Margin="0, -6, 0, 0"
+
+                    Text="Escuela Politécnica Nacional"
+                    FontSize="15"
+                    TextColor="Black"
+                    />
+
+            </StackLayout>
+        </Frame>
+    </StackLayout>
+</ContentPage>

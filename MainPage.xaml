@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="deber.MainPage">
+    <ScrollView >
+        <StackLayout 
+        >
+            <StackLayout>
+                <Frame BackgroundColor="Gray" Padding="24" CornerRadius="0">
+                    <Label Text="Hoja de vida" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+                </Frame>
+                <Frame BackgroundColor="white" Padding="24" CornerRadius="0">
+                    <Image Source="https://avatars.githubusercontent.com/u/74806895?v=4"
+                   WidthRequest="200"
+                   >
+                    </Image>
+                </Frame>
+                <StackLayout
+            Orientation="Vertical"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+            >
+
+                    <StackLayout
+                Orientation="Horizontal"
+               VerticalOptions="Center"
+            HorizontalOptions="Center"
+                >
+                        <Label Text="Nataly Guallichico" FontSize="Title" />
+
+                    </StackLayout>
+
+                    <Button 
+                        Clicked="btnShowPageDa"
+                        Text="CV"
+                        x:Name="btnNext"
+            >
+
+                    </Button>
+                </StackLayout>
+            </StackLayout>
+            <StackLayout>
+               
+                <Frame BackgroundColor="white" Padding="24" CornerRadius="0">
+                
+                </Frame>
+                <StackLayout
+            Orientation="Vertical"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+            >
+
+                    <StackLayout
+                Orientation="Horizontal"
+               VerticalOptions="Center"
+            HorizontalOptions="Center"
+                >
+                        <Label Text="Alejando Armas" FontSize="Title" />
+
+                    </StackLayout>
+
+                    <Button 
+                       Text="CV"
+                       Clicked="btnShowPageDi"
+                       x:Name="btnNext1"
+            >
+
+                    </Button>
+                </StackLayout>
+            </StackLayout>
+            <StackLayout>
+             
+                <Frame BackgroundColor="white" Padding="24" CornerRadius="0">
+                    <Image Source="https://avatars.githubusercontent.com/u/66772757?v=4"
+                   WidthRequest="200"
+                   >
+                    </Image>
+                </Frame>
+                <StackLayout
+            Orientation="Vertical"
+            VerticalOptions="Center"
+            HorizontalOptions="Center"
+            >
+
+                    <StackLayout
+                Orientation="Horizontal"
+               VerticalOptions="Center"
+            HorizontalOptions="Center"
+                >
+                        <Label Text="Luis Catota" FontSize="Title" />
+
+                    </StackLayout>
+
+                    <Button 
+                       Text="CV"
+                       Clicked="btnShowPageBr"
+                       x:Name="btnNextb"
+            >
+
+                    </Button>
+                </StackLayout>
+            </StackLayout>
+        </StackLayout>
+    </ScrollView>
+   
+        
+
+</ContentPage>
